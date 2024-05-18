@@ -1,0 +1,37 @@
+h1{
+    padding-top: 50PX;
+    background-color: aqua;
+    width: 900px;
+    height: 80px;
+    padding-left: 500px;
+    margin: 10PX;
+    font-family: tahoma, verdana, sans-serif;
+}
+P{
+    background-color: aqua;
+    width: 270px;
+    height: 338px;
+    padding-top: 20px;
+    text-align: center;
+    font-family: tahoma, verdana, sans-serif;
+}
+div h3{
+    background-color: aqua;
+    padding-top: 10PX;
+    padding-left: 500PX;
+    width: 980px;
+    height: 70PX;
+    padding-right: 20px;
+    font-family: tahoma, verdana, sans-serif;
+}
+h4{
+    background-color: aqua;
+    padding-top: 10PX;
+    padding-left: 500PX;
+    width: 690px;
+    height: 450px;
+    margin: 15px;
+    border:solid #c0c0c0 1px;
+    text-align: center;
+    
+}
